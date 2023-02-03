@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/markdown.github.io/static/css/main.c2bd60c6.css",
+    "main.js": "/markdown.github.io/static/js/main.c6bd7ab2.js",
+    "static/js/370.4fa510b3.chunk.js": "/markdown.github.io/static/js/370.4fa510b3.chunk.js",
+    "static/media/TextoDefault.md": "/markdown.github.io/static/media/TextoDefault.4e75c224d4cad5bb18d3.md",
+    "index.html": "/markdown.github.io/index.html",
+    "main.c2bd60c6.css.map": "/markdown.github.io/static/css/main.c2bd60c6.css.map",
+    "main.c6bd7ab2.js.map": "/markdown.github.io/static/js/main.c6bd7ab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2bd60c6.css",
+    "static/js/main.c6bd7ab2.js"
+  ]
+}
